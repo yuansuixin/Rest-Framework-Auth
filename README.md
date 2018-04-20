@@ -1,10 +1,6 @@
 # Rest-Framework源码解析----登录认证
 
 
-
-
-
-
 ### 认证
 - 问题，有些API需要用户登录成功之后，才能访问，有些无需登录就能访问。
 - 基本使用认证组件
@@ -286,8 +282,7 @@ REST_FRAMEWORK = {
 2. 源码流程
 
 
-
-
+[用户登录认证详细解析](https://yuansuixin.github.io/2017/03/20/rest-framework-auth/ "用户登录认证详细解析")
 
 
 
